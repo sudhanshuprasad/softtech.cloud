@@ -8,7 +8,7 @@ function footer() {
                     <div className="md:flex md:justify-between">
                         <div className="mb-6 md:mb-0">
                             <a href="https://softtech.cloud/" className="flex items-center">
-                                <img src="\S_20231209_041231_0000.svg" className="h-8 me-3" alt="SoftTech Logo" />
+                                <img src="\S_20231210_142927_0000.svg" className="h-8 me-3" alt="SoftTech Logo" />
                                 <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">SoftTech</span>
                             </a>
                         </div>
