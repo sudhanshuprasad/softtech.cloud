@@ -16,6 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <title>Softtech.cloud</title>
       <link rel="icon" href="\S_20231210_142927_0000.svg" sizes="any" />
       <body className={inter.className}>{children}</body>
     </html>
