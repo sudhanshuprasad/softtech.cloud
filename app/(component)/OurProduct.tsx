@@ -6,7 +6,7 @@ const OurProduct = () => {
         <>
            {/* <!-- component --> */}
 {/* <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script> */}
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+{/* <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> */}
 
 <main className="grid min-h-screen w-full place-content-center bg-gray-900">
     <div x-data="imageSlider" className="relative mx-auto max-w-2xl overflow-hidden rounded-md bg-gray-100 p-2 sm:p-4">
@@ -22,7 +22,7 @@ const OurProduct = () => {
             <i className="fas fa-chevron-right text-2xl font-bold text-gray-500"></i>
         </Button> */}
 
-        <div className="relative h-80" style="width: 30rem">
+        <div className="relative h-80" /* style="width: 30rem" */>
             <template x-for="(image, index) in images">
                 <div x-show="currentIndex == index + 1" x-transition:enter="transition transform duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition transform duration-300" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" className="absolute top-0">
                     <img src="image" alt="image" className="rounded-sm" />
