@@ -25,7 +25,7 @@ const OurProduct = () => {
         <div className="relative h-80" /* style="width: 30rem" */>
             <template x-for="(image, index) in images">
                 <div x-show="currentIndex == index + 1" x-transition:enter="transition transform duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition transform duration-300" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" className="absolute top-0">
-                    <img src="image" alt="image" className="rounded-sm" />
+                    <img src="\softtech_logo.svg" alt="image" className="rounded-sm" />
                 </div>
             </template>
         </div>
