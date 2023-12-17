@@ -4,6 +4,7 @@ import Footer from './(component)/footer'
 import Jumbo from './(component)/jumbotron'
 import OurProduct from './(component)/OurProduct'
 import Card from './(component)/card'
+import Team from './(component)/Team'
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <Navbar></Navbar>
       <Jumbo></Jumbo>
       <Card></Card>
+      <Team></Team>
       {/* <OurProduct></OurProduct> */}
       {/* <main className="flex min-h-screen flex-col items-center justify-between p-24">
         <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
