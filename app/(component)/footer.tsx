@@ -20,7 +20,7 @@ function footer() {
                                         <a href="https://softtech.cloud/" className="hover:underline">SoftTech</a>
                                     </li>
                                     <li>
-                                        <a href="https://softtech.cloud/" className="hover:underline">Tailwind CSS</a>
+                                        <a href="https://softtech.cloud/" className="hover:underline">Iot SoftTech Pvt. Ltd.</a>
                                     </li>
                                 </ul>
                             </div>
