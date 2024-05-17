@@ -6,10 +6,12 @@ const Home = () => {
     <div id="jumbo">
       <section className="bg-center bg-no-repeat bg-[url('https://flowbite.s3.amazonaws.com/docs/jumbotron/conference.jpg')] bg-gray-700 bg-blend-multiply">
         <div className="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56">
-          <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">We invest in the world&apos;s potential</h1>
-          <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">Here at SoftTech we work on making new innovations in the field of Internet of things, IOT.
-          <br/>Our prospective is to give a more technical oriented experience to our client at the same time making their life much easier using tech related products.
-          <br/>We deal in smart home gadgets for creating a smart ecosystem at our costumer&apos;s finger tips.</p>
+          <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
+            We invest in the world&apos;s potential
+          </h1>
+          <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
+            Here at SoftTech, we specialize in providing technical assistance to clients through creation of innovative products designed to simplify daily tasks and enhance productivity within home based environment. Our aim is to cultivate an enriched ecosystem conducive to sustainable living
+          </p>
           <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
             <a href="#" className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">
               Get started

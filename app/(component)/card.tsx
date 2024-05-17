@@ -12,7 +12,7 @@ const card = () => {
                     <a href="#">
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Our Product</h5>
                     </a>
-                    <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2023 so far, in reverse chronological order. Save water in a smart way with softtech.cloud</p>
+                    <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">In IOTSofttech with the application of internet of things (IOT) like smart meters and sensors that can track water usage, save water in a smart way in softtech.cloud.</p>
                     <a href="#" className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
                         Comming Soon
                         <svg className="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">

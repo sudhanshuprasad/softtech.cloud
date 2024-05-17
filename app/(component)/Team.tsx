@@ -21,7 +21,7 @@ const Team = () => {
                 <figure className="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 md:rounded-se-lg dark:bg-gray-800 dark:border-gray-700">
                     <blockquote className="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                         <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Solid foundation for any project</h3>
-                        <p className="my-4">&quot;Designing with Figma components that can be easily translated to the utility classNamees of Tailwind CSS is a huge timesaver!&quot;</p>
+                        <p className="my-4">&quot;Discover the future of convenience with our range of innovative technical gadgets!&quot;</p>
                     </blockquote>
                     <figcaption className="flex items-center justify-center ">
                         <img className="rounded-full w-9 h-9" src="https://img.icons8.com/ios-filled/50/administrator-male--v1.png" alt="profile picture"/>
@@ -34,7 +34,7 @@ const Team = () => {
                 <figure className="flex flex-col items-center justify-center p-8 text-center bg-white border-b border-gray-200 md:rounded-es-lg md:border-b-0 md:border-e dark:bg-gray-800 dark:border-gray-700">
                     <blockquote className="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                         <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Mindblowing workflow</h3>
-                        <p className="my-4">&quot;Aesthetically, the well designed components are beautiful and will undoubtedly level up your next application.&quot;</p>
+                        <p className="my-4">&quot;Impeccably designed components enhance the visual allure of your application, setting a new standard for elegance&quot;</p>
                     </blockquote>
                     <figcaption className="flex items-center justify-center ">
                         <img className="rounded-full w-9 h-9" src="https://img.icons8.com/ios-filled/50/administrator-male--v1.png" alt="profile picture"/>
@@ -47,7 +47,7 @@ const Team = () => {
                 <figure className="flex flex-col items-center justify-center p-8 text-center bg-white border-gray-200 rounded-b-lg md:rounded-se-lg dark:bg-gray-800 dark:border-gray-700">
                     <blockquote className="max-w-2xl mx-auto mb-4 text-gray-500 lg:mb-8 dark:text-gray-400">
                         <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Efficient Collaborating</h3>
-                        <p className="my-4">&quot;You have many examples that can be used to create a fast prototype for your team&quot;</p>
+                        <p className="my-4">&quot;Implementing agile marketing methodologies enables your team to iterate and efficiently&quot;</p>
                     </blockquote>
                     <figcaption className="flex items-center justify-center ">
                         <img className="rounded-full w-9 h-9" src="https://img.icons8.com/ios-filled/50/administrator-male--v1.png" alt="profile picture"/>

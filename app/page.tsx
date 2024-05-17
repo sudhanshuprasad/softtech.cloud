@@ -5,10 +5,14 @@ import Jumbo from './(component)/jumbotron'
 import OurProduct from './(component)/OurProduct'
 import Card from './(component)/card'
 import Team from './(component)/Team'
+import Head from 'next/head'
 
 export default function Home() {
   return (
     <>
+      <Head>
+        <link rel="shortcut icon" href="softtech_logo.svg" />
+      </Head>
       <Navbar></Navbar>
       <Jumbo></Jumbo>
       <Card></Card>
