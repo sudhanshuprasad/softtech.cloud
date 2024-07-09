@@ -9,7 +9,7 @@ const Home = () => {
           <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">
             We invest in the world&apos;s potential
           </h1>
-          <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
+          <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-30">
             IoT Sofftech is a bootstrapped company founded by 3 students from technical background with a motivation to solve a greater problem in the field of water management in Odisha. Students having different streams like Computer Science and Mechanical are developing a product that can be used in all the households to save water using technology. Product that is being build is a device that controls the motor of the building by fetching the data of the water reservoirs present on the buildings. The customer not only gets the privilege to use the technology through the device but also gets a chance to use the technology through their cell phones, tabs, laptops, etc. They can also specify their minimum water requirements and maximum water requirements which would help to save the water loss from over flowing of tanks.
 
             Rather than using products from abroad this product is completely made in India. Apart from that the product would also be comparatively affordable for this market which is price sensitive.
