@@ -10,7 +10,9 @@ const Home = () => {
             We invest in the world&apos;s potential
           </h1>
           <p className="mb-8 text-lg font-normal text-gray-300 lg:text-xl sm:px-16 lg:px-48">
-          Here at Softtech, we specialize in providing technical assistance to clients through creation of innovative products designed to simplify daily tasks and enhance productivity within home based environment. Our aim is to cultivate an enriched ecosystem conducive to sustainable living
+            IoT Sofftech is a bootstrapped company founded by 3 students from technical background with a motivation to solve a greater problem in the field of water management in Odisha. Students having different streams like Computer Science and Mechanical are developing a product that can be used in all the households to save water using technology. Product that is being build is a device that controls the motor of the building by fetching the data of the water reservoirs present on the buildings. The customer not only gets the privilege to use the technology through the device but also gets a chance to use the technology through their cell phones, tabs, laptops, etc. They can also specify their minimum water requirements and maximum water requirements which would help to save the water loss from over flowing of tanks.
+
+            Rather than using products from abroad this product is completely made in India. Apart from that the product would also be comparatively affordable for this market which is price sensitive.
           </p>
           <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
             <a href="#" className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">

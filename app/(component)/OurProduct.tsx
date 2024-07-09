@@ -7,8 +7,8 @@ const OurProduct = () => {
            {/* <!-- component --> */}
 {/* <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script> */}
 {/* <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> */}
-
-<main className="grid min-h-screen w-full place-content-center bg-gray-900">
+<div id="products">
+<div className="grid min-h-screen w-full place-content-center bg-gray-900">
     <div x-data="imageSlider" className="relative mx-auto max-w-2xl overflow-hidden rounded-md bg-gray-100 p-2 sm:p-4">
         <div className="absolute right-5 top-5 z-10 rounded-full bg-gray-600 px-2 text-center text-sm text-white">
             <span x-text="currentIndex"></span>/<span x-text="images.length"></span>
@@ -30,7 +30,7 @@ const OurProduct = () => {
             </template>
         </div>
     </div>
-</main>
+</div>
 
 {/* <script>
   document.addEventListener("alpine:init", () => {
@@ -54,6 +54,7 @@ const OurProduct = () => {
     }));
   });
 </script> */}
+</div>
 </>
     )
 }

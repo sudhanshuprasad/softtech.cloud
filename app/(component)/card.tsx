@@ -2,7 +2,7 @@ import React from 'react'
 
 const card = () => {
     return (
-        <div className='py-10 dark:bg-gray-900 flex content-center justify-center'>
+        <div id='products' className='py-10 dark:bg-gray-900 flex content-center justify-center'>
 
             <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
                 <a href="#">
